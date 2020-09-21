@@ -1,5 +1,5 @@
 ### helo
-![helo](https://i.redd.it/u3aizxakcbd41.jpg)
+<img src="https://i.redd.it/u3aizxakcbd41.jpg" width="250" height="250">
 
 <!--
 **marvintheskid/marvintheskid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
