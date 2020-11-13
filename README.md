@@ -1,17 +1,16 @@
-### helo
-<img src="https://i.redd.it/u3aizxakcbd41.jpg" width="250" height="250">
+# Hey! My name is notmarvin (prev. marvintheskid) 👋
+I'm just a simple high-school student who lives in Hungary.
 
-<!--
-**marvintheskid/marvintheskid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Previous projects
+* **MineSide (2018-2020)**
+  * Server Development
+  * Client Development
+* **??? (2020-???)**
 
-Here are some ideas to get you started:
+## Experience
+* 2+ years with Java
+* 0,5+ years with Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **Discord**: Marvin_D#8921
+- **Keybase**: notmarvin
