@@ -8,8 +8,8 @@ I'm just a simple high-school student who lives in Hungary.
 * **??? (2020-???)**
 
 ## Experience
-* 2+ years with Java
-* 0,5+ years with Kotlin
+* 3 years with Java
+* 1 years with Kotlin
 
 ## Contact
 - **Discord**: Marvin_D#8921
