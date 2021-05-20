@@ -8,11 +8,12 @@ I'm just a simple high-school student who lives in Hungary.
 * **BalkerCraft (2021-)**
   * Server Development
 * **??? (2020-)**
+  * Server Development
 
 ## Experience
 * 3 years with Java
 * 1 years with Kotlin
 
 ## Contact
-- **Discord**: Marvin_D#8921
+- **Discord**: Marvin_D#8921 (ID: 285057573558812684)
 - **Keybase**: notmarvin
