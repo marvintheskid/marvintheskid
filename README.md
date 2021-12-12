@@ -7,12 +7,14 @@ I'm just a simple high-school student who lives in Hungary.
   * Client Development
 * **BalkerCraft (2021-)**
   * Server Development
+* **PvP Arcade (2021-)**
+  * Server Development
 * **??? (2020-)**
   * Server Development
 
 ## Experience
-* 3 years with Java
-* 1 years with Kotlin
+* 4 years with Java
+* 2 years with Kotlin
 
 ## Contact
 - **Discord**: Marvin_D#8921 (ID: 285057573558812684)
