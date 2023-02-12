@@ -16,8 +16,8 @@ I'm just a simple high-school student who lives in Hungary.
   * Server Development
 
 ## Experience
-* 4 years with Java
-* 2 years with Kotlin
+* 5 years with Java
+* 3 years with Kotlin
 * MongoDB, SQL, Redis, etc.
 
 ## Contact
