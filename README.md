@@ -20,8 +20,8 @@ I'm just an ordinary university student who lives in Hungary.
 </details>
 
 ## Experience
-* 5 years with Java
-* 3 years with Kotlin
+* 6 years with Java
+* 4 years with Kotlin
 * MongoDB, SQL, Redis, etc.
 
 ## Contact
